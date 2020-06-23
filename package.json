@@ -1,0 +1,26 @@
+{
+  "name": "template-questions-guideline",
+  "version": "1.0.0",
+  "description": "## Search * Where users can post and look for their questions ![image](images/home.png)",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "acorn": ">=6.4.1",
+    "minimist": ">=0.2.1",
+    "eslint-utils": ">=1.4.1",
+    "lodash": ">=4.17.12",
+    "js-yaml": ">=3.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraenria/template-questions-guideline.git"
+  },
+  "author": "lauraenria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraenria/template-questions-guideline/issues"
+  },
+  "homepage": "https://github.com/lauraenria/template-questions-guideline#readme"
+}
