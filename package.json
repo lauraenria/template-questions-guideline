@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "acorn": ">=6.4.1",
-    "minimist": ">=0.2.1",
+    "minimist": ">=1.2.6",
     "eslint-utils": ">=1.4.1",
     "lodash": ">=4.17.21",
     "js-yaml": ">=3.13.1"
